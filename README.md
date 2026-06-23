@@ -1,5 +1,3 @@
-# til-template
-
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [n년, n월 n일] : 간략 주제 작성 
